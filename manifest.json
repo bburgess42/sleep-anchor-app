@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-10T15:45:34.087538+00:00",
+  "audio_base_url": "https://audio.fourthshelfmedia.com",
+  "track_count": 5,
+  "tracks": [
+    {
+      "id": "peaceful-orbit",
+      "title": "Peaceful Orbit",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 381,
+      "genre": "ambient",
+      "sub_niche": "deep sleep / drone / celestial",
+      "mood": [
+        "weightless",
+        "cosmic",
+        "serene",
+        "cozy",
+        "safe"
+      ],
+      "cover_art": "peaceful-orbit-cover-v4.png",
+      "audio_file": "peaceful-orbit.ogg",
+      "release_date": "2026-04-17",
+      "added_to_manifest": "2026-03-10",
+      "binaural": true,
+      "tuning_hz": 432
+    },
+    {
+      "id": "safe-harbor",
+      "title": "Safe Harbor",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 444,
+      "genre": "ambient",
+      "sub_niche": "deep sleep / drone",
+      "mood": [
+        "warm",
+        "embracing",
+        "safe",
+        "deep sleep"
+      ],
+      "cover_art": "safe-harbor-cover.png",
+      "audio_file": "safe-harbor.ogg",
+      "release_date": "2026-04-10",
+      "added_to_manifest": "2026-03-10",
+      "binaural": false,
+      "tuning_hz": 440
+    },
+    {
+      "id": "lunar-drift",
+      "title": "Lunar Drift",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 339,
+      "genre": "ambient",
+      "sub_niche": "ocean / nature ambient",
+      "mood": [
+        "oceanic",
+        "gentle",
+        "drifting",
+        "calm"
+      ],
+      "cover_art": "lunar-drift-cover-v2.png",
+      "audio_file": "lunar-drift.ogg",
+      "release_date": "2026-04-10",
+      "added_to_manifest": "2026-03-10",
+      "binaural": false,
+      "tuning_hz": 440
+    },
+    {
+      "id": "drifting-above",
+      "title": "Drifting Above",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 471,
+      "genre": "ambient",
+      "sub_niche": "deep sleep / drone",
+      "mood": [
+        "airy",
+        "flying",
+        "weightless",
+        "celestial"
+      ],
+      "cover_art": "drifting-above-cover.png",
+      "audio_file": "drifting-above.ogg",
+      "release_date": "2026-04-10",
+      "added_to_manifest": "2026-03-10",
+      "binaural": false,
+      "tuning_hz": 440
+    },
+    {
+      "id": "ocean-drift",
+      "title": "Ocean Drift",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 465,
+      "genre": "ambient/sleep/wellness",
+      "sub_niche": "",
+      "mood": [
+        "calm",
+        "dreamy",
+        "meditative",
+        "ambient",
+        "sleep",
+        "drifting"
+      ],
+      "cover_art": "ocean-drift-3000.png",
+      "audio_file": "ocean-drift.ogg",
+      "release_date": "2026-04-03",
+      "added_to_manifest": "2026-03-10",
+      "binaural": false,
+      "tuning_hz": 440
+    }
+  ]
+}
