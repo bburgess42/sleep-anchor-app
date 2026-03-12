@@ -1,9 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-03-11T21:26:00.625923+00:00",
+  "generated_at": "2026-03-12T17:38:16.526807+00:00",
   "audio_base_url": "https://pub-d8ba222fd84a4a41b0680345b2e37f60.r2.dev",
-  "track_count": 6,
+  "track_count": 7,
   "tracks": [
+    {
+      "id": "velvet-float",
+      "title": "Velvet Float",
+      "artist": "Sleep Anchor",
+      "duration_seconds": 0,
+      "genre": "ambient",
+      "sub_niche": "deep sleep / drone",
+      "mood": [
+        "floating",
+        "calm",
+        "tranquil",
+        "smooth",
+        "weightless"
+      ],
+      "cover_art": "velvet-float-cover.png",
+      "audio_file": "velvet-float.ogg",
+      "release_date": "2026-04-24",
+      "added_to_manifest": "2026-03-12",
+      "binaural": false,
+      "tuning_hz": 432
+    },
     {
       "id": "still-warmth",
       "title": "Still Warmth",
@@ -20,7 +41,7 @@
       "cover_art": "still-warmth-cover-v2.png",
       "audio_file": "still-warmth.ogg",
       "release_date": "2026-04-17",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": false,
       "tuning_hz": 432
     },
@@ -41,7 +62,7 @@
       "cover_art": "peaceful-orbit-cover-v4.png",
       "audio_file": "peaceful-orbit.ogg",
       "release_date": "2026-04-17",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": true,
       "tuning_hz": 432
     },
@@ -61,7 +82,7 @@
       "cover_art": "safe-harbor-cover.png",
       "audio_file": "safe-harbor.ogg",
       "release_date": "2026-04-10",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": false,
       "tuning_hz": 440
     },
@@ -81,7 +102,7 @@
       "cover_art": "lunar-drift-cover-v2.png",
       "audio_file": "lunar-drift.ogg",
       "release_date": "2026-04-10",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": false,
       "tuning_hz": 440
     },
@@ -101,7 +122,7 @@
       "cover_art": "drifting-above-cover.png",
       "audio_file": "drifting-above.ogg",
       "release_date": "2026-04-10",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": false,
       "tuning_hz": 440
     },
@@ -123,7 +144,7 @@
       "cover_art": "ocean-drift-3000.png",
       "audio_file": "ocean-drift.ogg",
       "release_date": "2026-04-03",
-      "added_to_manifest": "2026-03-11",
+      "added_to_manifest": "2026-03-12",
       "binaural": false,
       "tuning_hz": 440
     }
