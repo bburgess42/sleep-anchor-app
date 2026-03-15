@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="anchor_black">#FF000000</color>
+    <color name="anchor_surface">#FF0A0A14</color>
+    <color name="anchor_accent">#FF4DB6AC</color>
+</resources>
